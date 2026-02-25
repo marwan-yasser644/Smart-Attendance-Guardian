@@ -1,0 +1,8 @@
+Django==5.0
+django-environ==0.11.2
+psycopg2-binary==2.9.9
+twilio==8.10.2
+celery==5.3.6
+redis==5.0.1
+django-crispy-forms==2.1
+crispy-bootstrap5==2024.2
